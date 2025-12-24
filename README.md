@@ -1,6 +1,8 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com? font=JetBrains+Mono&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Akhilesh;Cybersecurity+Researcher;Certified+Penetration+Tester;AI+UI%2FUX+Designer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg. demolab.com? font=JetBrains+Mono&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Akhilesh;Cybersecurity+Researcher;Certified+Penetration+Tester;AI+UI%2FUX+Designer" alt="Typing SVG" />
+  </a>
 </h1>
 
 <p align="center">
@@ -9,7 +11,7 @@
 
 <p align="center">
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-000000? style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -23,7 +25,7 @@
 
 ## 🧠 Profile
 
-B.Tech Cybersecurity Student & Certified Penetration Tester specializing in **Vulnerability Assessment, Penetration Testing & Cyber Forensics**. 
+B.Tech Cybersecurity Student & Certified Penetration Tester specializing in **Vulnerability Assessment, Penetration Testing & Cyber Forensics**.  
 
 - 🎓 B.Tech Cybersecurity Student
 - 🔐 CEH v13 Certified
@@ -50,7 +52,7 @@ B.Tech Cybersecurity Student & Certified Penetration Tester specializing in **Vu
 <p>
   <img src="https://img.shields.io/badge/VAPT-Expert-000000?style=for-the-badge" alt="VAPT"/>
   <img src="https://img.shields.io/badge/Web_Pentesting-Advanced-000000?style=for-the-badge" alt="Web Pentesting"/>
-  <img src="https://img.shields.io/badge/Ethical_Hacking-Advanced-000000?style=for-the-badge" alt="Ethical Hacking"/>
+  <img src="https://img.shields.io/badge/Ethical_Hacking-Advanced-000000? style=for-the-badge" alt="Ethical Hacking"/>
   <img src="https://img.shields.io/badge/Network_Security-Intermediate-000000?style=for-the-badge" alt="Network Security"/>
 </p>
 
@@ -108,7 +110,7 @@ B.Tech Cybersecurity Student & Certified Penetration Tester specializing in **Vu
   <img src="https://img.shields.io/badge/Burp_Suite-Advanced-000000?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
   <img src="https://img.shields.io/badge/Nmap-Advanced-000000?style=for-the-badge" alt="Nmap"/>
   <img src="https://img.shields.io/badge/Metasploit-Advanced-000000?style=for-the-badge" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/Wireshark-Advanced-000000? style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Wireshark-Advanced-000000?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/OWASP_ZAP-Intermediate-000000? style=for-the-badge" alt="OWASP ZAP"/>
   <img src="https://img.shields.io/badge/SQLmap-Intermediate-000000? style=for-the-badge" alt="SQLmap"/>
 </p>
@@ -135,7 +137,7 @@ B.Tech Cybersecurity Student & Certified Penetration Tester specializing in **Vu
 ## 🏆 Certifications
 
 | Certification | Status |
-|:--------------|: -------|
+|: --------------|:-------|
 | CEH v13 | ✅ Certified |
 | Certified Penetration Tester | ✅ Certified |
 | B.Tech Cybersecurity | 📚 Pursuing |
@@ -157,7 +159,7 @@ B.Tech Cybersecurity Student & Certified Penetration Tester specializing in **Vu
   <a href="https://hackthebox.com">
     <img src="https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox"/>
   </a>
-  <a href="https://tryhackme.com">
+  <a href="https://tryhackme. com">
     <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
   </a>
 </p>
