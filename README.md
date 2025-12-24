@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Akhilesh;Cybersecurity+Researcher;Certified+Penetration+Tester;AI+UI%2FUX+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=03c03c&center=true&vCenter=true&width=600&lines=Akhilesh+A+S;Cybersecurity+Researcher;Certified+Penetration+Tester;AI+UI%2FUX+Designer)](https://git.io/typing-svg)
 
 </h1>
 
@@ -20,7 +20,6 @@
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=red" alt="Twitter"/>
   </a>
 </p>
-
 ---
 
 ## 🧠 Profile
@@ -118,6 +117,7 @@ B.Tech Cybersecurity Student & Certified Penetration Tester specializing in **Vu
 
 ## 🌐 Platforms
 
+
 <p align="center">
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://hackthebox.com)
@@ -128,9 +128,9 @@ B.Tech Cybersecurity Student & Certified Penetration Tester specializing in **Vu
 ---
 
 <p align="center">
-  <em>"The quieter you become, the more you are able to hear."</em>
+  <em>"ᴛʜᴇ ǫᴜɪᴇᴛᴇʀ ʏᴏᴜ ʙᴇᴄᴏᴍᴇ, ᴛʜᴇ ᴍᴏʀᴇ ʏᴏᴜ ᴀʀᴇ ᴀʙʟᴇ ᴛᴏ ʜᴇᴀʀ"</em>
 </p>
 
 <p align="center">
-  <sub>Open for VAPT engagements, security consulting & AI UI/UX projects</sub>
+  <sub>ꜰᴏᴄᴜꜱᴇᴅ ᴏɴ ᴇxᴘʟᴏɪᴛ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, ᴀᴘɪ ꜱᴇᴄᴜʀɪᴛʏ ʀᴇꜱᴇᴀʀᴄʜ & ɪɴᴄɪᴅᴇɴᴛ ʀᴇꜱᴘᴏɴꜱᴇ</sub>
 </p>
