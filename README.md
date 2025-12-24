@@ -11,13 +11,13 @@
 
 <p align="center">
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=red" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-000000? style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=red" alt="Twitter"/>
   </a>
 </p>
 
@@ -109,18 +109,17 @@ B.Tech Cybersecurity Student & Certified Penetration Tester specializing in **Vu
 ## 🏆 Certifications
 
 | Certification | Status |
-|: --------------|:-------|
+|:--------------|:-------|
 | CEH v13 | ✅ Certified |
 | Certified Penetration Tester | ✅ Certified |
-| B.Tech Cybersecurity | 📚 Pursuing |
+| B. Tech Cybersecurity | 📚 Pursuing |
 
 ---
-
 
 ## 🌐 Platforms
 
 <p align="center">
-  
+
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://hackthebox.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 
