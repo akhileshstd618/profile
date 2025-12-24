@@ -1,8 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg. demolab.com? font=JetBrains+Mono&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Akhilesh;Cybersecurity+Researcher;Certified+Penetration+Tester;AI+UI%2FUX+Designer" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=Akhilesh+A+S;certified+penetration+tester;Ethical+Hacker,AI+UI+UX+Designer" />
 </h1>
 
 <p align="center">
