@@ -9,13 +9,13 @@
 
 <p align="center">
    </a>
-  <a href="mailto:its47h4m@gmail.com">
+  <a href="mailto:asakhilesh618@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/alham-rizvi">
+  <a href="https://www.linkedin.com/in/akhilesh5">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://twitter.com/Alhamrizvii">
+  <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
   </a>
 </p>
