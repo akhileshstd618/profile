@@ -6,13 +6,13 @@
 
 # AKHILESH
 
-**Cybersecurity Specialist | Ethical Hacker | Security Designer**
+**B.Tech Cybersecurity Student | Certified Penetration Tester | CEH v13**
 
 <br>
 
 <img src="https://img.shields.io/badge/Status-Available-00d4ff?style=flat-square&labelColor=0d1117"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Focus-Offensive_Security-00d4ff?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Focus-VAPT-00d4ff?style=flat-square&labelColor=0d1117"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Location-India-00d4ff?style=flat-square&labelColor=0d1117"/>
 
@@ -26,64 +26,75 @@
 
 ### About
 
-Security professional specializing in penetration testing, vulnerability assessment, and security research. Passionate about identifying and exploiting security weaknesses to help organizations build more secure systems.  Also experienced in professional security-focused design and branding.
+Cybersecurity student pursuing B.Tech in Cybersecurity with hands-on experience in Vulnerability Assessment & Penetration Testing (VAPT). Certified Ethical Hacker (CEH v13) and Cyber Forensics enthusiast. Active leader in multiple tech communities driving cybersecurity awareness and operations.
+
+---
+
+### Current Roles
+
+| Role | Organization |
+|: -----|:-------------|
+| MDC Lead | IEEE |
+| Cyber Wing Lead | ICET |
+| Operation Lead | Mulearn ICET |
+| GDC Outreach Lead | — |
 
 ---
 
 ### Core Expertise
 
-| Offensive Security | Defensive Security | Design |
-|: -------------------|:-------------------|:-------|
-| Penetration Testing | Incident Response | UI/UX Design |
-| Vulnerability Assessment | Threat Intelligence | Graphic Design |
-| Web Application Security | Security Monitoring | Brand Identity |
-| Network Security | Digital Forensics | Motion Graphics |
-| API Security Testing | Malware Analysis | Visual Communication |
-| OSINT & Reconnaissance | Log Analysis | Security Dashboards |
+| Security | Forensics |
+|:---------|:----------|
+| Vulnerability Assessment | Cyber Forensics |
+| Penetration Testing (VAPT) | Digital Evidence Analysis |
+| Ethical Hacking | Incident Investigation |
+
+---
+
+### Certifications
+
+| Certification | Status |
+|:--------------|:-------|
+| CEH v13 | Certified |
+| Certified Penetration Tester | Certified |
+| B.Tech Cybersecurity | Pursuing |
 
 ---
 
 ### Skill Proficiency
 
 ```
-Penetration Testing      ████████████████████░░░░   85%
-Web Application Security ██████████████████████░░   90%
-Network Security         ████████████████████░░░░   80%
-OSINT & Reconnaissance   ██████████████████░░░░░░   75%
-Incident Response        ████████████████░░░░░░░░   70%
-UI/UX Design             ██████████████████████░░   85%
-Graphic Design           ████████████████████░░░░   80%
+Penetration Testing (VAPT)   ████████████████████░░░░   85%
+Vulnerability Assessment     ██████████████████████░░   90%
+Cyber Forensics              ████████████████████░░░░   80%
+Network Security             ████████████████░░░░░░░░   70%
+Ethical Hacking              ██████████████████████░░   88%
 ```
 
 ---
 
 ### Security Tools
 
-**Operating Systems**
-> Kali Linux • Parrot OS • BlackArch • Tails
-
 **Penetration Testing**
-> Burp Suite • Metasploit • Nmap • Wireshark • SQLMap • Nikto • OWASP ZAP
+> Burp Suite • Metasploit • Nmap • Wireshark • SQLMap • OWASP ZAP
 
-**Reconnaissance & OSINT**
-> Maltego • Shodan • theHarvester • Recon-ng • SpiderFoot
+**Forensics**
+> Autopsy • FTK Imager • Volatility • Sleuth Kit
 
-**Password & Exploitation**
-> Hashcat • John the Ripper • Hydra • Aircrack-ng
-
-**Design**
-> Figma • Adobe Photoshop • Illustrator • After Effects
+**Operating Systems**
+> Kali Linux • Parrot OS
 
 ---
 
-### Certifications
+### GitHub Statistics
 
-| Certification | Issuing Organization |
-|:--------------|:---------------------|
-| CEH | EC-Council |
-| OSCP | Offensive Security |
-| CompTIA Security+ | CompTIA |
-| eJPT | INE Security |
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=akhileshstd618&show_icons=true&hide_border=true&count_private=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117"/>
+&nbsp;
+<img width="48%" src="https://github-readme-streak-stats. herokuapp.com? user=akhileshstd618&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=c9d1d9"/>
+
+</div>
 
 ---
 
@@ -94,20 +105,6 @@ Graphic Design           ██████████████████�
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://hackthebox.com)
 &nbsp;
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-&nbsp;
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com)
-
-</div>
-
----
-
-### GitHub Statistics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats. vercel.app/api?username=akhileshstd618&show_icons=true&hide_border=true&count_private=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117"/>
-&nbsp;
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com? user=akhileshstd618&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=c9d1d9"/>
 
 </div>
 
@@ -117,13 +114,11 @@ Graphic Design           ██████████████████�
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example. com)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 &nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourhandle)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourwebsite.com)
 
 </div>
 
@@ -135,6 +130,6 @@ Graphic Design           ██████████████████�
 
 <br>
 
-<sub>Open to security consulting, penetration testing engagements, and collaborative projects. </sub>
+<sub>Open for security consulting, VAPT engagements, and community collaborations.</sub>
 
 </div>
