@@ -2,17 +2,19 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header"/>
+<img src="https://capsule-render.vercel.app/api? type=rect&color=0d1117&height=1&section=header"/>
 
 # AKHILESH
 
-**B.Tech Cybersecurity Student | Certified Penetration Tester | CEH v13**
+**B. Tech Cybersecurity Student | Certified Penetration Tester | CEH v13 | AI UI/UX Designer**
 
 <br>
 
-<img src="https://img.shields.io/badge/Status-Available-00d4ff?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Status-Available-00d4ff? style=flat-square&labelColor=0d1117"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Focus-VAPT-00d4ff?style=flat-square&labelColor=0d1117"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Design-AI_UI/UX-00d4ff?style=flat-square&labelColor=0d1117"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Location-India-00d4ff?style=flat-square&labelColor=0d1117"/>
 
@@ -26,7 +28,7 @@
 
 ### About
 
-Cybersecurity student pursuing B.Tech in Cybersecurity with hands-on experience in Vulnerability Assessment & Penetration Testing (VAPT). Certified Ethical Hacker (CEH v13) and Cyber Forensics enthusiast. Active leader in multiple tech communities driving cybersecurity awareness and operations.
+Cybersecurity student pursuing B.Tech in Cybersecurity with hands-on experience in Vulnerability Assessment & Penetration Testing (VAPT). Certified Ethical Hacker (CEH v13) and Cyber Forensics enthusiast. Also passionate about AI-driven UI/UX design, creating intuitive and intelligent user experiences.  Active leader in multiple tech communities driving cybersecurity awareness and operations.
 
 ---
 
@@ -43,11 +45,11 @@ Cybersecurity student pursuing B.Tech in Cybersecurity with hands-on experience 
 
 ### Core Expertise
 
-| Security | Forensics |
-|:---------|:----------|
-| Vulnerability Assessment | Cyber Forensics |
-| Penetration Testing (VAPT) | Digital Evidence Analysis |
-| Ethical Hacking | Incident Investigation |
+| Security | Forensics | Design |
+|:---------|:----------|: -------|
+| Vulnerability Assessment | Cyber Forensics | AI UI/UX Design |
+| Penetration Testing (VAPT) | Digital Evidence Analysis | User Research |
+| Ethical Hacking | Incident Investigation | Prototyping |
 
 ---
 
@@ -67,19 +69,22 @@ Cybersecurity student pursuing B.Tech in Cybersecurity with hands-on experience 
 Penetration Testing (VAPT)   ████████████████████░░░░   85%
 Vulnerability Assessment     ██████████████████████░░   90%
 Cyber Forensics              ████████████████████░░░░   80%
-Network Security             ████████████████░░░░░░░░   70%
+AI UI/UX Design              ██████████████████████░░   88%
 Ethical Hacking              ██████████████████████░░   88%
 ```
 
 ---
 
-### Security Tools
+### Tools
 
-**Penetration Testing**
+**Security**
 > Burp Suite • Metasploit • Nmap • Wireshark • SQLMap • OWASP ZAP
 
 **Forensics**
 > Autopsy • FTK Imager • Volatility • Sleuth Kit
+
+**Design**
+> Figma • Adobe XD • Framer • Midjourney • DALL-E
 
 **Operating Systems**
 > Kali Linux • Parrot OS
@@ -90,9 +95,9 @@ Ethical Hacking              █████████████████
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=akhileshstd618&show_icons=true&hide_border=true&count_private=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117"/>
+<img width="48%" src="https://github-readme-stats. vercel.app/api?username=akhileshstd618&show_icons=true&hide_border=true&count_private=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117"/>
 &nbsp;
-<img width="48%" src="https://github-readme-streak-stats. herokuapp.com? user=akhileshstd618&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=c9d1d9"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com? user=akhileshstd618&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=c9d1d9"/>
 
 </div>
 
@@ -104,7 +109,7 @@ Ethical Hacking              █████████████████
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://hackthebox.com)
 &nbsp;
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42? style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 
 </div>
 
@@ -130,6 +135,6 @@ Ethical Hacking              █████████████████
 
 <br>
 
-<sub>Open for security consulting, VAPT engagements, and community collaborations.</sub>
+<sub>Open for security consulting, VAPT engagements, AI UI/UX projects, and community collaborations.</sub>
 
 </div>
