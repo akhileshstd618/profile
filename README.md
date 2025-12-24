@@ -1,215 +1,180 @@
-<!-- Header Section with Animation -->
+<!-- ==================== HACKER THEME HEADER ==================== -->
+
 <div align="center">
   
-  <!-- Animated Typing Header -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Akhilesh;Full+Stack+Developer;Security+Enthusiast;Creative+Designer" alt="Typing SVG" /></a>
+  <!-- Matrix-Style Animated Typing Header -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%24+whoami;%3E+AKHILESH+%7C+SECURITY+RESEARCHER;%24+./hack_the_planet. sh+%E2%9C%93" alt="Typing SVG" /></a>
+
+  <!-- Hacker-Style Wave Banner with Neon Green -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0: 000000,50:003300,100:00FF00&height=200&section=header&text=⟨%20AKHILESH%20/⟩&fontSize=60&fontColor=00FF00&animation=twinkling&fontAlignY=35&desc=☠%20Developer%20|%20Designer%20|%20Security%20Researcher%20☠&descAlignY=55&descSize=18&descColor=00FF00&stroke=00FF00&strokeWidth=1"/>
+
+  <!-- Terminal Style Box -->
+  <img src="https://img.shields.io/badge/root%40kali: ~%23-Access%20Granted-00FF00? style=for-the-badge&logo=gnometerminal&logoColor=00FF00&labelColor=000000"/>
   
-  <!-- Animated Wave Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AKHILESH&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20|%20Designer%20|%20Security%20Researcher&descAlignY=55&descSize=18"/>
+  <br><br>
   
-  <!-- Profile Views & Social Badges -->
+  <!-- Hacker Badges with Green Theme -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=akhileshstd618&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/akhileshstd618?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-    <img src="https://img.shields.io/github/stars/akhileshstd618?label=Stars&style=for-the-badge&color=yellow" alt="Stars"/>
+    <img src="https://komarev.com/ghpvc/?username=akhileshstd618&label=%F0%9F%91%81%EF%B8%8F%20WATCHERS&color=00FF00&style=for-the-badge&labelColor=000000" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/akhileshstd618?label=%F0%9F%92%80%20FOLLOWERS&style=for-the-badge&color=00FF00&labelColor=000000" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/akhileshstd618?label=%E2%AD%90%20STARS&style=for-the-badge&color=00FF00&labelColor=000000" alt="Stars"/>
+  </p>
+
+  <!-- Status Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF00? style=flat-square&logo=statuspage&logoColor=00FF00&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/SYSTEM-BREACHED-00FF00?style=flat-square&logo=hackaday&logoColor=00FF00&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/FIREWALL-BYPASSED-00FF00?style=flat-square&logo=fireship&logoColor=00FF00&labelColor=000000"/>
   </p>
   
-  <!-- Animated Line -->
-  <img src="https://user-images.githubusercontent. com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <!-- Animated Neon Line -->
+  <img src="https://raw.githubusercontent.com/rodrigograber/rodrigograber/main/images/bar.gif" width="100%"/>
+  
+</div>
+
+<!-- Terminal Welcome Message -->
+```bash
+┌──(akhilesh㉿kali)-[~]
+└─$ neofetch
+```
+
+```
+     ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗ 
+     ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+     ███████║███████║██║     █████╔╝ █████╗  ██████╔╝
+     ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗
+     ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║
+     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+                                                     
+     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+     ║  OS      :  Kali Linux                       ║
+     ║  User    : akhilesh@root                    ║
+     ║  Role    : Security Researcher              ║
+     ║  Mission : Hack The Planet                  ║
+     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+<div align="center">
+  
+  <!-- Hacker GIF -->
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+  
+  <!-- Matrix Divider -->
+  <br>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
 </div>
 
 ---
 
-<!-- Profile Section -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
+<!-- ==================== REST OF YOUR PROFILE ==================== -->
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer. gif">
+<!-- Profile Section - Hacker Style -->
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> root@akhilesh: ~$ cat about.txt
 
-```yaml
-name: Akhilesh
-located_in: India
-current_focus: Building Secure & Scalable Applications
-education:
-  - "Computer Science & Engineering"
-interests:
-  - "Cybersecurity"
-  - "Web Development"
-  - "UI/UX Design"
-  - "Open Source"
-hobbies:
-  - "Ethical Hacking"
-  - "Creative Designing"
-  - "Problem Solving"
-currently_learning:  "Advanced Penetration Testing"
-fun_fact: "I debug with coffee ☕"
+<img align="right" alt="Hacking" width="400" src="https://media.giphy. com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+class Hacker:
+    def __init__(self):
+        self.name = "Akhilesh"
+        self.alias = "akhileshstd618"
+        self.role = "Security Researcher"
+        self. location = "India 🇮🇳"
+        self.languages = ["Python", "JavaScript", "Bash", "C"]
+        
+    def skills(self):
+        return {
+            "offensive": ["Penetration Testing", "Exploit Dev", "OSINT"],
+            "defensive": ["SIEM", "Incident Response", "Forensics"],
+            "creative": ["UI/UX Design", "Graphic Design", "Motion"]
+        }
+    
+    def motto(self):
+        return "Hack the planet! 🌐"
+
+me = Hacker()
+print(me. motto())
 ```
 
 <br clear="both">
 
 ---
 
-<!-- Core Expertise Section -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif? cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"/> Core Expertise
+## <img src="https://media.giphy. com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> ./core_expertise.sh
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/96/000000/source-code. png" width="60"/>
-        <br><strong>Full Stack Development</strong>
-        <br><sub>Building end-to-end web applications</sub>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/96/000000/security-checked.png" width="60"/>
-        <br><strong>Cybersecurity</strong>
-        <br><sub>Penetration Testing & Security Audits</sub>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/96/000000/design. png" width="60"/>
-        <br><strong>UI/UX Design</strong>
-        <br><sub>Creating stunning user interfaces</sub>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/96/000000/api-settings.png" width="60"/>
-        <br><strong>API Development</strong>
-        <br><sub>RESTful & GraphQL APIs</sub>
-      </td>
-    </tr>
-  </table>
+
+<!-- Expertise Cards with Hacker Theme -->
+| 🔓 Penetration Testing | 🛡️ Security Research | 🎨 Creative Design | ⚙️ Development |
+|:---:|:---:|:---:|: ---:|
+| <img src="https://img.icons8.com/color/80/hacker. png"/> | <img src="https://img.icons8.com/color/80/security-checked.png"/> | <img src="https://img.icons8.com/color/80/design. png"/> | <img src="https://img.icons8.com/color/80/source-code.png"/> |
+| Web & Network Pentesting | Vulnerability Research | UI/UX & Graphics | Full Stack Apps |
+| `OWASP` `CVE` `0-Day` | `Malware Analysis` `RE` | `Figma` `Adobe` | `React` `Node` |
+
 </div>
 
 ---
 
-<!-- Skills Statistics Section -->
-## <img src="https://media.giphy. com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> Skills & Statistics
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> cat /etc/skills.conf
 
 <div align="center">
-  
-### 🛠️ Languages & Frameworks
-  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,go,rust&theme=dark" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,vue,angular&theme=dark" />
-</p>
 
-### 🗄️ Databases & Cloud
+### ⚡ Hacking & Security Arsenal
   
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,aws,gcp,docker&theme=dark" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Parrot_OS-15A168?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hashcat-3E3E3E? style=for-the-badge&logo=hashicorp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/John_the_Ripper-BA0000?style=for-the-badge&logo=hackaday&logoColor=white"/>
 </p>
 
-### 🎨 Design & Tools
-  
+### 💻 Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,blender,ae,pr,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,bash,c,cpp,go,rust&theme=dark" />
 </p>
 
-</div>
+### 🌐 Web Technologies
 
-<br>
+<p>
+  <img src="https://skillicons.dev/icons? i=react,nextjs,nodejs,express,mongodb,postgresql,docker,linux&theme=dark" />
+</p>
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=akhileshstd618&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/? username=akhileshstd618&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" alt="Top Languages" />
-</div>
+### 🎨 Design Tools
 
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp. com/? user=akhileshstd618&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="GitHub Streak"/>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,blender,pr,xd,svg&theme=dark" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhileshstd618&bg_color=0d1117&color=00b3ff&line=00b3ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
 
-<!-- Hacking & Designing Section -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/> Hacking & Designing Arsenal
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> ./stats --generate
 
 <div align="center">
-
-### 🔐 Security & Hacking Tools
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/96/kali-linux.png" width="50"/>
-      <br><strong>Kali Linux</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="50"/>
-      <br><strong>Burp Suite</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="50"/>
-      <br><strong>Metasploit</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" width="50"/>
-      <br><strong>Wireshark</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="50"/>
-      <br><strong>Nmap</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/96/bash.png" width="50"/>
-      <br><strong>Bash/Shell</strong>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-### 🎨 Design & Creative Tools
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=figma" width="50"/>
-      <br><strong>Figma</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=ps" width="50"/>
-      <br><strong>Photoshop</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=ai" width="50"/>
-      <br><strong>Illustrator</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=ae" width="50"/>
-      <br><strong>After Effects</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=blender" width="50"/>
-      <br><strong>Blender</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=xd" width="50"/>
-      <br><strong>Adobe XD</strong>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-<!-- Certifications/Achievements -->
-<div align="center">
   
-### 🏆 Achievements & Certifications
+  <!-- GitHub Stats with Hacker Colors -->
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=akhileshstd618&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=000000" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/? username=akhileshstd618&layout=compact&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=000000" alt="Top Languages" />
   
-<p>
-  <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red? style=for-the-badge&logo=hackerone"/>
-  <img src="https://img.shields.io/badge/OSCP-Offensive%20Security-orange?style=for-the-badge&logo=kalilinux"/>
-  <img src="https://img.shields.io/badge/AWS-Certified-yellow?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/Google-UX%20Design-blue?style=for-the-badge&logo=google"/>
-</p>
+  <br>
+  
+  <!-- Streak Stats -->
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/? user=akhileshstd618&theme=chartreuse-dark&hide_border=true&stroke=00FF00&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak"/>
+  
+  <br>
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhileshstd618&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true&area_color=003300" alt="Activity Graph"/>
 
 </div>
 
@@ -217,50 +182,51 @@ fun_fact: "I debug with coffee ☕"
 
 <!-- Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/? username=akhileshstd618&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/? username=akhileshstd618&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
 </div>
 
 ---
 
-<!-- Connect Section -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"/> Let's Connect
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> ./connect. sh
 
 <div align="center">
+  
   <a href="mailto:your.email@example. com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=000000"/>
   </a>
   <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00FF00? style=for-the-badge&logo=linkedin&logoColor=000000"/>
   </a>
   <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-00FF00?style=for-the-badge&logo=x&logoColor=000000"/>
   </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About. me&logoColor=white"/>
+  <a href="https://discord. gg/yourid">
+    <img src="https://img.shields.io/badge/Discord-00FF00?style=for-the-badge&logo=discord&logoColor=000000"/>
   </a>
-  <a href="https://discord.com/users/yourid">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
+  
 </div>
 
 ---
 
 <!-- Snake Animation -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme:  dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake. svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
 
-<!-- Footer -->
+<!-- Hacker Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,50:003300,100:000000&height=120&section=footer"/>
 </div>
 
 <div align="center">
-  <b>⭐ From <a href="https://github.com/akhileshstd618">Akhilesh</a> with 💙</b>
+  
+```bash
+┌──(akhilesh㉿kali)-[~]
+└─$ echo "Thanks for visiting! Stay curious, stay ethical.  🔐"
+```
+  
+  <img src="https://img.shields.io/badge/Made_with-💚_by_Akhilesh-00FF00?style=flat-square&labelColor=000000"/>
+  
 </div>
