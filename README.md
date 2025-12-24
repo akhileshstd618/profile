@@ -116,14 +116,6 @@ B.Tech Cybersecurity Student & Certified Penetration Tester specializing in **Vu
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akhileshstd618&show_icons=true&hide_border=true&count_private=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
-  <img width="48%" src="https://streak-stats.demolab.com? user=akhileshstd618&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=c9d1d9" alt="GitHub Streak"/>
-</div>
-
----
 
 ## 🌐 Platforms
 
