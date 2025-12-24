@@ -1,4 +1,4 @@
-<!-- Animated Wave Header -->
+]<!-- Animated Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0: 0d1117,50:00d4ff,100:0d1117&height=200&section=header&text=AKHILESH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Specialist%20|%20AI/UI/UX%20Designer%20|%20Ethical%20Hacker&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Animated Subtitle -->
