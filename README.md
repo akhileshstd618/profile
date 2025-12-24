@@ -8,17 +8,17 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-000000? style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+   </a>
+  <a href="mailto:its47h4m@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/alham-rizvi">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  <a href="https://twitter.com/Alhamrizvii">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
   </a>
 </p>
-
 ---
 
 ## 🧠 Profile
